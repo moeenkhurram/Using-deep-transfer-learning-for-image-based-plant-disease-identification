@@ -17,7 +17,7 @@ Training  18345 images belonging to 10 classes.
 Testing    4585 images belonging to 10 classes.
 
 
-![test image size](https://github.com/moeenkhurram/deep-transfer-learning-plant-disease-identification/blob/main/foo%20(1).png?v=4&s=200 )
+![test image size](https://github.com/moeenkhurram/deep-transfer-learning-plant-disease-identification/blob/main/foo%20(1).png? )
 
 
 ![alt text](https://github.com/moeenkhurram/deep-transfer-learning-plant-disease-identification/blob/main/foo.png?raw=true)
