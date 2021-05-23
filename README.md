@@ -1,1 +1,1 @@
-# Using Transfer Learning for Image Based Plant Disease Identification
+# Transfer Learning for Image Based Plant Disease Identification
